@@ -1,0 +1,10 @@
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\bin\Debug\ThyoticCodeSample.dll
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\bin\Debug\ThyoticCodeSample.pdb
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\bin\Debug\nunit.framework.dll
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\bin\Debug\nunit.framework.pdb
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\bin\Debug\nunit.framework.xml
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\obj\Debug\ThyoticCodeSample.csprojAssemblyReference.cache
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\obj\Debug\ThyoticCodeSample.csproj.CoreCompileInputs.cache
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\obj\Debug\ThyoticCodeSample.csproj.CopyComplete
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\obj\Debug\ThyoticCodeSample.dll
+C:\Users\Charles Opper\source\repos\ThyoticCodeSample\ThyoticCodeSample\obj\Debug\ThyoticCodeSample.pdb
